@@ -1,6 +1,7 @@
 /*
 	@problem: MakSumSubset (Gemastik 2009)
 	@author: Nabil Muhammad Firdaus
+	@files: https://github.com/nmfzone/persiapan-lomba-java/blob/master/MakSumSubset.java
 	@created: June 23, 2015
 */
 
